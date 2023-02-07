@@ -1,9 +1,9 @@
 # Program
 - [x] Google
- - Google Assistant
- - Google Action Console
- - Google Cloud
- - Google Smart Home
+  - Google Assistant
+  - Google Action Console
+  - Google Cloud
+  - Google Smart Home
 - [x] Node-red
 - [x] Firebase
 - [x] Dialogflow
